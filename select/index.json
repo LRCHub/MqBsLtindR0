@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "いつかの、いくつかのきみとのせかい",
+  "base_artist": "fhána",
+  "createdAt": "2026-03-10T07:19:51.669289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい (Galileo Galilei \"dog bass\" Remix)",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/01_いつかの、いくつかのきみとのせかい_(Galileo_Galilei__dog_bass__Remix)_fhána.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい (Instrumental)",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/02_いつかの、いくつかのきみとのせかい_(Instrumental)_fhána.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/03_いつかの、いくつかのきみとのせかい_fhána.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい (Galileo Galilei \"dog bass\" remix)",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/04_いつかの、いくつかのきみとのせかい_(Galileo_Galilei__dog_bass__remix)_fhána.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい -Instrumental-",
+      "artist": "fhana",
+      "has_synced": false,
+      "path": "select/05_いつかの、いくつかのきみとのせかい_-Instrumental-_fhana.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい",
+      "artist": "fhana",
+      "has_synced": false,
+      "path": "select/06_いつかの、いくつかのきみとのせかい_fhana.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい - Somewhen, Some Worlds with You",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/07_いつかの、いくつかのきみとのせかい_-_Somewhen,_Some_Worlds_with_You_fhána.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい -Instrumental-",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/08_いつかの、いくつかのきみとのせかい_-Instrumental-_fhána.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつかの、いくつかのきみとのせかい",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/pl_01_いつかの、いくつかのきみとのせかい_fhána.txt"
+    }
+  ]
+}
